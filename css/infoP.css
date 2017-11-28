@@ -1,0 +1,47 @@
+#contenedor,html{
+	height: 100%;padding:0px;margin:0px;
+	background-image: url("../img/fondo_espacio.jpg");
+}
+#inst{
+	position: fixed;
+	background-color: green;
+	height: 90%;
+	width: 90%;
+	left: 3%;
+	top: 2.5%;
+	font-family: sans-serif;
+}
+
+#titulo{
+	position: fixed;
+	left: 15%;
+	font-size: 300%;
+}
+
+#instrucciones{
+	position: fixed;
+	font-size: 200%;
+	bottom: 50%;
+	width: 80%;
+	left: 10%;
+	top: 15%;
+
+}
+#boton{
+	height: 25%;
+}
+
+#creditos{
+	position: fixed;
+	font-size: 150%;
+	bottom: 23%;
+	left: 10%;
+	height: 10%;
+}
+
+#volver{
+	position: fixed;
+	bottom: 6%;
+	left: 25%;
+	font-size: 200%;
+}

@@ -1,0 +1,42 @@
+#contenedor,html{
+	height: 100%;padding:0px;margin:0px;
+	background-image: url("../img/fondo_espacio.jpg");
+}
+
+#inst{
+	position: fixed;
+	background-color: green;
+	height: 90%;
+	width: 90%;
+	left: 3%;
+	top: 2.5%;
+	font-family: sans-serif;
+}
+
+#titulo{
+	position: fixed;
+	left: 40%; 
+}
+
+#instrucciones{
+	position: fixed;
+	bottom: 40%;
+	left: 5%;
+}
+#boton{
+	height: 10%;
+	width: 10%;
+	right: 50%;
+}
+
+#creditos{
+	position: fixed;
+	bottom: 25%;
+	right: 50%;
+}
+
+#volver{
+	position: fixed;
+	left: 42%;
+	bottom: 10%;
+}

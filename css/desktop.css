@@ -1,0 +1,154 @@
+#contenedor,html{
+	height:100%;padding:0px;margin:0px;
+	background-image: url("../img/fondo_espacio.jpg");
+}
+
+.nave{
+	position: fixed;
+	top: 0%;
+	right: 30%;
+	background-color: yellow: none;
+	width: 40%; 
+	height: 100%;
+}
+
+#imgfuego{display:none;}
+
+#imgStarship{
+	position: fixed;
+	left: 43%;
+	top: 0%;
+	height: 20%;
+	margin: 0 auto;	
+	background-color:blue:none;
+}
+
+.left{
+	position: fixed;
+	background-color: red: none;
+	left: 0%;
+	top: 0%;
+	width: 30%;
+	height: 100%;
+}
+
+#infor{
+	position: fixed;
+	height: 15%;
+	top: 5%;
+	left: 85%;
+	margin: 0 auto;
+}
+
+#reanudarse{
+	position: fixed;
+	height: 15%;
+	top: 20%;
+	left: 85%;
+	margin: 0 auto;
+}
+
+#reiniciarse{
+	position: fixed;
+	height: 15%;
+	top: 35%;
+	left: 85%;
+	margin: 0 auto;
+}
+
+#paused{
+	position: fixed;
+	height: 15%;
+	top: 50%;
+	left: 85%;
+	margin: 0 auto;
+}
+
+#planeta{
+	position: fixed;
+	bottom: 0%;
+	left: 0%;
+	right: 0%;
+	margin: 0 auto;
+	height: 25%;
+}
+
+.right{
+	position: fixed;
+	right: 0%;
+	top:0%;
+	width: 30%;
+	height: 100%;
+	background-color: blue: none;
+}
+
+#boton{
+	bottom: 50%;
+	width: 50%;
+}
+
+.pulso{
+	position: fixed;
+	width: 25%;
+	height: 50%;
+	right: 0%;
+	bottom: -20%;
+	margin: 0 auto;
+}
+
+.final{
+	position: fixed;
+	height: 25%;
+	width: 100%;
+	left: 0%;
+	bottom: 0%;
+	background-color: purple: none;
+}
+
+#fuel{
+	position: fixed;
+	top:5%;
+	left: 2.5%;
+	margin: 0 auto;
+	height: 15%;
+}
+
+#vel{
+	position: fixed;
+	top: 20%;
+	left: 2.5%;
+	margin: 0 auto;
+	height: 15%
+}
+
+#alt{
+	position: fixed;
+	top: 35%;
+	left: 2.5%;
+	margin: 0 auto;
+	height: 15%;
+}
+
+#agujaFuel{
+	position: fixed;
+	top: 10%;
+	left: 5.7%;
+	margin: 0 auto;
+	height: 7.5%;
+}
+
+#agujaVel{
+	position: fixed;
+	top: 25%;
+	left: 5.7%;
+	margin: 0 auto;
+	height: 7.5%;
+}
+
+#agujaAlt{
+	position: fixed;
+	top: 40%;
+	left: 5.7%;
+	margin: 0 auto;
+	height: 7.5%;
+}
