@@ -1,4 +1,6 @@
 # Lunar_Lander
 
-# URL
+# URL del juego.
 ·https://rawgit.com/JoanProg/Lunar_Lander/master/index.html
+
+# Historial. 
